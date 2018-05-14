@@ -1974,10 +1974,10 @@
 		-webkit-appearance: none;
 		-ms-appearance: none;
 		appearance: none;
-		background: #6cc091;
+		background: rgb(85, 85, 85);
 		border-radius: 10px;
 		border: none;
-		border: solid 2px #8dcca9;
+		/* border: solid 2px #8dcca9; */
 		color: #fff;
 		display: block;
 		outline: 0;
@@ -2001,8 +2001,8 @@
 		input[type="tel"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #4bae77;
-			box-shadow: 0 0 0 1px #4bae77;
+			/* border-color: #4bae77; */
+			box-shadow: 0 0 0 1px #ffffff44;
 		}
 
 	.select-wrapper {
@@ -2125,27 +2125,27 @@
 	}
 
 	::-webkit-input-placeholder {
-		color: #c4e5d3 !important;
+		color: #ffffff !important;
 		opacity: 1.0;
 	}
 
 	:-moz-placeholder {
-		color: #c4e5d3 !important;
+		color: #ffffff !important;
 		opacity: 1.0;
 	}
 
 	::-moz-placeholder {
-		color: #c4e5d3 !important;
+		color: #ffffff !important;
 		opacity: 1.0;
 	}
 
 	:-ms-input-placeholder {
-		color: #c4e5d3 !important;
+		color: #ffffff !important;
 		opacity: 1.0;
 	}
 
 	.formerize-placeholder {
-		color: #c4e5d3 !important;
+		color: #ffffff !important;
 		opacity: 1.0;
 	}
 
@@ -2928,7 +2928,7 @@
 
 		#banner:before {
 			content: '';
-			background: #00e683;
+			background: #ad102f;
 			position: absolute;
 			width: 100%;
 			height: 100%;
@@ -3111,7 +3111,7 @@
 
 	#footer {
 		padding: 6em 0;
-		background: #6cc091;
+		background: #ad102f;
 		color: #fff;
 		text-align: center;
 	}

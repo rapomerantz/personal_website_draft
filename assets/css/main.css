@@ -2223,10 +2223,13 @@
 
 		.image.left, .image.right {
 			max-width: 40%;
+			border-radius: 100px;
 		}
 
 			.image.left img, .image.right img {
 				width: 100%;
+				border-radius: 10px;
+
 			}
 
 		.image.round img {
@@ -2937,10 +2940,10 @@
 		}
 
 		#banner .inner {
-			border-top: 2px solid rgba(255, 255, 255, 0.2);
+			/* border-top: 2px solid rgba(255, 255, 255, 0.2); */
 			position: relative;
 			z-index: 10005;
-			padding-top: 8em;
+			/* padding-top: 8em; */
 		}
 
 		#banner h1 {

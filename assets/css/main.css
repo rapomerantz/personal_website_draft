@@ -2843,7 +2843,7 @@
 		position: fixed;
 		right: 0;
 		top: 0;
-		background: #6cc091;
+		background: #e3385a;
 		color: #daefe3;
 		height: 100%;
 		max-width: 80%;
@@ -2921,7 +2921,7 @@
 /* Banner */
 
 	#banner {
-		padding: 8em 0 5em 0;
+		padding: 6em 0 3em 0;
 		/* background-image: url(../../images/banner.jpg); */
 		background-size: cover;
 		background-position: bottom;
@@ -3022,7 +3022,7 @@
 		@media screen and (max-width: 1280px) {
 
 			#banner {
-				padding: 7em 0 6em 0;
+				padding: 2em 0 2em 0;
 			}
 
 				#banner .inner {
@@ -3047,7 +3047,7 @@
 
 			#banner {
 				background-attachment: scroll;
-				padding: 5em 0 4em 0;
+				padding: 5em 0 2em 0;
 			}
 
 				#banner .inner {
@@ -3072,7 +3072,7 @@
 		@media screen and (max-width: 736px) {
 
 			#banner {
-				padding: 4em 0 2em 0;
+				padding: 1em 0 1em 0;
 			}
 
 				#banner .inner {
@@ -3115,7 +3115,7 @@
 /* Footer */
 
 	#footer {
-		padding: 6em 0;
+		padding: 1em 0;
 		background: #ad102f;
 		color: #fff;
 		text-align: center;
@@ -3134,7 +3134,7 @@
 		#footer .copyright {
 			color: rgba(255, 255, 255, 0.5);
 			font-size: 0.8em;
-			margin: 0 0 2em 0;
+			margin: 0 0 1em 0;
 			padding: 0;
 		}
 
@@ -3150,7 +3150,7 @@
 		@media screen and (max-width: 980px) {
 
 			#footer {
-				padding: 4em 0;
+				padding: 2em 0;
 			}
 
 		}
@@ -3158,7 +3158,7 @@
 		@media screen and (max-width: 736px) {
 
 			#footer {
-				padding: 3em 0;
+				padding: 1em 0;
 			}
 
 		}

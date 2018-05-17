@@ -1880,7 +1880,7 @@
 		-moz-justify-content: space-between;
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
-		justify-content: space-between;
+		justify-content: space-evenly;
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
